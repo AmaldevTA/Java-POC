@@ -1,1 +1,2 @@
-public class CrazyClassCreation{ public void doit() { System.out.println("1432976822179"); }}
+public class CrazyClassCreation{ public void doit() { System.out.println("ok it works"); }}
+public class CrazyClassCreation{ public void doit() { System.out.println("ok it works"); }}
